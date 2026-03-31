@@ -1,7 +1,7 @@
 
   # Clinivue
 
-  This is a code bundle for Clinivue. The original project is available at https://www.figma.com/design/5aQ0LUpU5dcEtaHBOLfgG7/Clinivue.
+  This is a code bundle for Clinivue.
 
   ## Running the code
 
